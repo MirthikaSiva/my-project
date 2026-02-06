@@ -1,1 +1,2 @@
 This is my personal project to practice basic Git operations.
+This project helps me understand version control using Git.
